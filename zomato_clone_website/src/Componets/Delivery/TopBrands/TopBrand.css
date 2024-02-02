@@ -1,0 +1,23 @@
+.topbrand{
+  padding-top: 30px;
+}
+.topbrand-cover img{
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+.brand-title{
+  margin-top: 14px;
+  width: 150px;
+  font-size: 18px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+}
+.brand-time{
+  margin-top: 5px;
+  width: 150px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+}

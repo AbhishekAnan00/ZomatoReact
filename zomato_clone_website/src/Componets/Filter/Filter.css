@@ -1,0 +1,5 @@
+.filtercomp{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 16px 6px;
+}

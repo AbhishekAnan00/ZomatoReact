@@ -1,0 +1,32 @@
+.taboptions{
+  height: 100px;
+  display: flex;
+  margin: 40px;
+  border-bottom: 0.1px solid rgba(128, 128, 128, 0.199);
+}
+.options{
+  width: 900px;
+  display: flex;
+  gap:40px;
+}
+
+.tab-image-container{
+  height: 60px;
+  width: 60px;
+  border-radius: 50px;
+  display: flex;
+  align-items: center;
+ background-color: rgba(128, 128, 128, 0.116);
+ cursor: pointer;
+}
+.tab-image{
+  margin: 14px;
+  height: 30px;
+}
+.active-tab{
+  border-bottom: 2px solid #EF4F5F;
+  
+}
+.active-tab .tab-name{
+  color: #EF4F5F;
+}

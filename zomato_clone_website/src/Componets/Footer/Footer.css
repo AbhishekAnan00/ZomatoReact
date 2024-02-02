@@ -1,0 +1,16 @@
+.footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgba(128, 128, 128, 0.096);
+}
+.footer-logo img{
+  margin-top: 40px;
+  height: 25px;
+  width: 120px;
+}
+.footer-panel{
+  margin-top: 40px;
+  border-top: 1px solid grey;
+}

@@ -1,0 +1,15 @@
+.Collection{
+  color: #1c1c1c;
+  font-size: 30px;
+  margin-bottom:35px;
+  padding: 16px;
+  font-weight: 600;
+}
+.slick-next:before,
+.slick-prev:before {
+  color: grey;
+}
+.delivery-col{
+  height: 360px;
+  background-color: #F8F8F8;
+}

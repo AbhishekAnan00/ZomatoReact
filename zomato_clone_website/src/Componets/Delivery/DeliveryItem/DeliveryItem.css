@@ -1,0 +1,25 @@
+.del-cover{
+  height: 150px;
+  width: 150px;
+  background-color: #F8F8F8;
+  border-radius: 8px;
+}
+.del-item-img{
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.del-title{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  width: 140px;
+  color: #363636;
+  font-size: 22px;
+  font-weight: 600;
+  text-overflow: ellipsis; 
+  overflow: hidden;
+  margin: 6px ;
+}

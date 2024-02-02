@@ -1,0 +1,53 @@
+.collection {
+  background-color: rgba(128, 128, 128, 0.068);
+}
+.dining-img {
+  height: 320px;
+  width: 260px;
+  border-radius: 8px;
+  position: relative;
+}
+.col-title {
+  height: 40px;
+  color: #363636;
+  font-size: 22px;
+  padding-left: 15px;
+}
+.col-name {
+  color: #ffffff;
+  position: relative;
+  left: 16px;
+  bottom: 56px;
+  font-size: 18px;
+}
+.col-place {
+  color: #ffffff;
+  font-size: 14px;
+  position: relative;
+  left: 16px;
+  bottom: 56px;
+}
+.col-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.col-all {
+  padding: 3px 30px;
+  font-size: 16px;
+  color: #ff7e8b;
+}
+/* .gradient-bg{
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.842) 0%,
+    rgba(0, 0, 0, 0.05) 50%,
+    rgba(0, 0, 0, 0.05) 85%
+  );
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  border-radius: 8px;
+}  */
