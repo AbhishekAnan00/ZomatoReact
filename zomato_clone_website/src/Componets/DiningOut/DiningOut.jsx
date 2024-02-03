@@ -58,13 +58,13 @@ const DiniingData = [
   },
   {
     id:"5",
-    DiningImg:"https://b.zmtcdn.com/data/collections/c5d2b79…_1687244840.png",
+    DiningImg:"https://b.zmtcdn.com/data/collections/c303690883c0b1c0c841a62c3f5942b6_1695623276.png",
     title:"12 Local Favourite Places",
     Places:"9 Places"
   },
   {
     id:"6",
-    DiningImg:"https://b.zmtcdn.com/data/collections/3b1f56c…_1688043045.png",
+    DiningImg:"https://b.zmtcdn.com/data/collections/95f4feccc4c848ba72a7cd835595db77_1678453481.png",
     title:"7 Bingeworthy Desserts",
     Places:"6 Places"
   },
